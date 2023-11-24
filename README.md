@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charlottepa
-- 👀 I’m interested in behavioral genetics
-- 🌱 I’m currently learning how to work with git
+- 🧬 I’m a PhD student interested in Bioinformatics & Behavior Genetics
+
 
 
